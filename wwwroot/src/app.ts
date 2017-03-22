@@ -9,7 +9,7 @@ new Vue({
     el: '#app',
     components: {  'hello-component':HelloComponent},
     data: {
-        message: 'Hello World'
+        message: 'press the button'
     }
 
 })
